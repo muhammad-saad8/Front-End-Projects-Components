@@ -1,11 +1,11 @@
-# Frontend Projects 🌐
+# Frontend Components 🌐
 
 [![GitHub contributors](https://img.shields.io/github/contributors/muhammad-saad8/Front-End-Projects-Components)](https://github.com/muhammad-saad8/Front-End-Projects-Components/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-saad8/Front-End-Projects-Components)](https://github.com/muhammad-saad8/Front-End-Projects-Components/commits/master)
 
 This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript.
 
-## Projects 📂
+## Components 📂
 
 <table>
     <tr>
