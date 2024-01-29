@@ -15,8 +15,8 @@ This repository contains a collection of frontend projects.Each project is built
     </tr>
     <tr>
         <td>01</td>
-        <td>Landing Page</td>
-        <td><a href="./project-1_landing-page">Click Here</a></td>
+        <td>To Do List</td>
+        <td><a href="./project-1_to_do_list">Click Here</a></td>
     </tr>
     <tr>
         <td>02</td>
@@ -70,8 +70,8 @@ This repository contains a collection of frontend projects.Each project is built
     </tr>
     <tr>
         <td>12</td>
-        <td>Contact Form</td>
-        <td><a href="./project-12_contact_form">Click Here</a></td>
+        <td>Search Bar Animation</td>
+        <td><a href="./project-12_Search_bar _animation">Click Here</a></td>
     </tr>
     <tr>
         <td>13</td>
@@ -91,7 +91,7 @@ This repository contains a collection of frontend projects.Each project is built
     <tr>
         <td>16</td>
         <td>Pricing card</td>
-        <td><a href="./project-16_pricing_component"/>Click Here</a></td>
+        <td><a href="./project-16_pricing_component">Click Here</a></td>
     </tr>
 </table>
 
